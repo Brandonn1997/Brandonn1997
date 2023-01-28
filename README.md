@@ -1,4 +1,6 @@
-### Welcome to my GitHub Profile! 👋 I'm Brandon Fernandez.
+## 👋 I'm Brandon Fernandez.
+
+Welcome to my GitHub Profile! 
 
 ___
 

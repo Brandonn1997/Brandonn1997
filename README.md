@@ -1,4 +1,4 @@
-## 👋 I'm Brandon Fernandez.
+## Hey there 👋 I'm Brandon Fernandez.
 
 Welcome to my GitHub Profile! 
 
@@ -8,14 +8,14 @@ I am a developer with experience in HTML, CSS, Kotlin, etc. I am passionate abou
 
 <br>
 
-# Skills & tools
+#### Skills & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,androidstudio,kotlin,java,vscode,ps,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,androidstudio,kotlin,java,php,vscode,github,ps,discord)](https://skillicons.dev)
 
 
 <br>
 
-# Socials
+### Socials:
 
 [![github](https://skillicons.dev/icons?i=github)](https://twitter.com/BrandonAnth)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brandonfdz/)

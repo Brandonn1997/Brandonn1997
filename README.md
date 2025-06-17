@@ -117,32 +117,6 @@ App que permite registrar, buscar y editar productos en tiempo real. Ideal para 
 
 
 
-<!--## Hey there 👋 I'm Brandon Fernandez.
-
-Welcome to my GitHub Profile! 
-
-___
-
-I am a developer with experience in HTML, CSS, Kotlin, etc. I am passionate about creating visually appealing and easy to use websites and mobile apps. Always eager to learn new technologies and improve my skills.
-
-<br>
-
-#### Skills & Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,androidstudio,kotlin,java,php,vscode,github,ps,discord)](https://skillicons.dev)
-
-
-<br>
-
-### Socials:
-
-[![github](https://skillicons.dev/icons?i=github)](https://twitter.com/BrandonAnth)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brandonfdz/)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/BrandonAnth)-->
-
-
-
-
 
 <!--
 **Brandonn1997/Brandonn1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

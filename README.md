@@ -1,4 +1,85 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
+<h1 align="center">Hola, soy Brandon Anthobeli 👋</h1>
+<p align="center">🧑‍💻 Ingeniero en Tecnologías de la Información | 💡 Apasionado por el desarrollo Android | 🚀 En constante evolución</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📱 Control de Ventas App
+Aplicación Android para llevar el control de ventas, notas y facturación en negocios pequeños.
+- ✅ Manejo de notas y facturas
+- ☁️ Sincronización con base de datos MySQL vía API PHP
+- 🔐 Inicio de sesión y autorización de usuarios
+- 🔄 Actualización de la app vía FTP desde el servidor
+- 🖨️ Impresión térmica desde Android
+
+> 📌 Kotlin · Laravel · MySQL · RecyclerView · FTP · Apache Commons Net
+
+🔗 [Ver repositorio](https://github.com/TU_USUARIO/control-ventas-app)
+
+---
+
+### ⚡ Cortes y Autorizaciones
+Herramienta para contadores o gerentes que necesitan aprobar cortes desde el móvil.
+- ✅ Visualización de ventas por día
+- 📤 Envío de cortes autorizados
+- 🎨 Interfaz intuitiva y adaptada a modo claro/oscuro
+
+> 📌 Kotlin · JSON · Laravel · RecyclerView · Animaciones personalizadas
+
+🔗 [Ver repositorio](https://github.com/TU_USUARIO/cortes-autorizados-app)
+
+---
+
+### 📦 App de Inventario Inteligente
+App que permite registrar, buscar y editar productos en tiempo real. Ideal para pequeños almacenes.
+- 🧾 CRUD de productos
+- 🔎 Búsqueda por nombre o código
+- 📶 Sincronización con base remota
+
+> 📌 Kotlin · SQLite · Laravel · Material Design
+
+🔗 [Ver repositorio](https://github.com/TU_USUARIO/app-inventario)
+
+---
+
+## 🛠️ Tecnologías que uso
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🤝 Conectemos
+
+- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
+- 📫 anthobeli@gmail.com
+- 🌐 Portafolio: (en construcción)
+
+---
+
+> ✨ “La mejor forma de predecir el futuro es crearlo” – Peter Drucker
+
+
+
+
+
+
+<!--<h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate developer from México</h3>
 <br>
 
@@ -28,7 +109,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonn1997&" alt="brandonn1997" /></p>
 
 
-
+-->
 
 
 

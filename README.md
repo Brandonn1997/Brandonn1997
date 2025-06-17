@@ -15,7 +15,7 @@ Aplicación Android para llevar el control de ventas, notas y facturación en ne
 
 > 📌 Kotlin · Laravel · MySQL · RecyclerView · FTP · Apache Commons Net
 
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/control-ventas-app)
+🔗 [Ver repositorio](https://github.com/Brandonn1997/ZapMex.git)
 
 ---
 
@@ -27,7 +27,7 @@ Herramienta para contadores o gerentes que necesitan aprobar cortes desde el mó
 
 > 📌 Kotlin · JSON · Laravel · RecyclerView · Animaciones personalizadas
 
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/cortes-autorizados-app)
+🔗 [Ver repositorio](https://github.com/Brandonn1997/ZapMex.git)
 
 ---
 
@@ -39,7 +39,7 @@ App que permite registrar, buscar y editar productos en tiempo real. Ideal para 
 
 > 📌 Kotlin · SQLite · Laravel · Material Design
 
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/app-inventario)
+🔗 [Ver repositorio](https://github.com/Brandonn1997/ZapMex.git)
 
 ---
 
@@ -58,16 +58,16 @@ App que permite registrar, buscar y editar productos en tiempo real. Ideal para 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonn1997&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonn1997&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🤝 Conectemos
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
-- 📫 anthobeli@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/brandonfdz)
+- 📫 brandonfdza@gmail.com
 - 🌐 Portafolio: (en construcción)
 
 ---
